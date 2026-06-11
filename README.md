@@ -33,43 +33,17 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Based Fake Review Detection
-
-Developed a Machine Learning system to identify fraudulent and misleading online reviews using NLP techniques and text classification models.
-
-**Tech Stack:** Python • Scikit-Learn • NLP • Pandas
-
-**Impact:** Helps businesses and customers make trustworthy decisions by detecting fake reviews automatically.
-
----
-
 ### 🚗 Driver Drowsiness Detection
+Real-time AI system that detects driver fatigue using Computer Vision and alerts users to prevent accidents.
 
-Built a real-time Computer Vision system that detects driver fatigue and triggers alerts to improve road safety.
-
-**Tech Stack:** Python • OpenCV • Deep Learning
-
-**Impact:** Reduces accident risks caused by driver drowsiness.
-
----
+### 🤖 AI-Based Fake Review Detection
+Machine Learning model that identifies suspicious and fake online reviews using text analysis and classification techniques.
 
 ### ✋ Hand Gesture Recognition
-
-Created a vision-based interaction system that recognizes hand gestures and translates them into machine-readable commands.
-
-**Tech Stack:** Python • OpenCV • Machine Learning
-
-**Impact:** Enables touchless human-computer interaction.
-
----
+Computer Vision application that recognizes hand gestures and converts them into machine-understandable commands.
 
 ### 📊 Customer Segmentation Analysis
-
-Applied clustering algorithms to group customers based on behavior and purchasing patterns.
-
-**Tech Stack:** Python • Pandas • Scikit-Learn
-
-**Impact:** Supports targeted marketing and data-driven business strategies.
+Clustering-based analytics solution that groups customers by behavior to support targeted business decisions.
 
 ---
 
