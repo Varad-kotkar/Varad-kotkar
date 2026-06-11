@@ -3,7 +3,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange)
-![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow)```markdown
+![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow)
 # 👋 Hi, I'm Varad Kotkar
 
 <img align="right" alt="AI Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvNXVtdzFza2xudGZ1NWh6d2g4c3h3M2h0dDdxY2U3YWFxOGFmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
