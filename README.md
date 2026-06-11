@@ -12,7 +12,7 @@
 
 🎓 B.Tech CSE @ MIT ADT University
 
-📍 Nashik, India
+📍 Ahilyanagar, India
 
 🚀 Building intelligent systems using Python, OpenCV & Deep Learning
 
