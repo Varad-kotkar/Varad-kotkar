@@ -1,147 +1,57 @@
-# ███████╗ VARAD KOTKAR
-# AI • ML • COMPUTER VISION
+```markdown
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange)
+![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow)```markdown
+# 👋 Hi, I'm Varad Kotkar
 
-> System Status: Learning. Building. Improving.
+<img align="right" alt="AI Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvNXVtdzFza2xudGZ1NWh6d2g4c3h3M2h0dDdxY2U3YWFxOGFmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
---------------------------------------------------
-USER PROFILE
---------------------------------------------------
+### 🧠 AI • Machine Learning • Computer Vision
 
-Name        : Varad Kotkar
-Role        : Computer Science Student
-University  : MIT ADT University
-Location    : Nashik, India
+🎓 B.Tech CSE @ MIT ADT University
 
-Current Goal:
-→ Become an AI Engineer capable of building
-  intelligent systems that solve real-world problems.
+📍 Nashik, India
 
---------------------------------------------------
-ACTIVE MODULES
---------------------------------------------------
+🚀 Building intelligent systems using Python, OpenCV & Deep Learning
 
-[✓] Python
-[✓] Data Analytics
-[✓] Machine Learning
-[✓] Computer Vision
-[✓] Power BI
-[✓] Tableau
+---
 
-[⟳] Deep Learning
-[⟳] Generative AI
-[⟳] MLOps
+## ⚡ Skill Matrix
 
---------------------------------------------------
-PROJECT DATABASE
---------------------------------------------------
+| Skill | Level |
+|---------|---------|
+| Python | ██████████ |
+| Machine Learning | █████████░ |
+| Computer Vision | ████████░░ |
+| Data Analytics | ████████░░ |
+| Power BI | ████████░░ |
+| Deep Learning | ██████░░░░ |
 
-001. DRIVER DROWSINESS DETECTION
+---
 
-Problem:
-Drivers fall asleep and accidents occur.
+## 🚀 Featured Projects
 
-Solution:
-AI-powered fatigue detection using computer vision.
+### 🚗 Driver Drowsiness Detection
+Real-time fatigue detection using Computer Vision.
 
-Tech:
-Python | OpenCV | Deep Learning
+### ✋ Hand Gesture Recognition
+Human-computer interaction using hand tracking.
 
-Status:
-DEPLOYED
+### 📊 Customer Segmentation
+Clustering customers for business insights.
 
---------------------------------------------------
+### 🏠 House Price Prediction
+Machine Learning model for property valuation.
 
-002. HAND GESTURE RECOGNITION
+---
 
-Problem:
-Traditional input devices limit interaction.
+## 🎯 Currently Learning
 
-Solution:
-Recognize gestures and convert them into commands.
+```text
+[████████░░] Deep Learning
 
-Tech:
-Python | OpenCV
+[██████░░░░] MLOps
 
-Status:
-COMPLETED
-
---------------------------------------------------
-
-003. CUSTOMER SEGMENTATION
-
-Problem:
-All customers are treated the same.
-
-Solution:
-Cluster customers based on behavior.
-
-Tech:
-Python | Scikit-Learn
-
-Status:
-COMPLETED
-
---------------------------------------------------
-
-004. HOUSE PRICE PREDICTION
-
-Problem:
-Property valuation uncertainty.
-
-Solution:
-Predict housing prices using ML models.
-
-Tech:
-Python | Regression Models
-
-Status:
-COMPLETED
-
---------------------------------------------------
-NEXT DEPLOYMENTS
---------------------------------------------------
-
-> AI Fake Review Detection
-
-> Aircraft Predictive Maintenance
-
-> End-to-End MLOps Pipeline
-
-> Generative AI Applications
-
---------------------------------------------------
-SKILL MATRIX
---------------------------------------------------
-
-Python                ██████████ 90%
-
-Machine Learning      █████████░ 85%
-
-Computer Vision       ████████░░ 80%
-
-Deep Learning         ██████░░░░ 60%
-
-Data Analytics        █████████░ 85%
-
-Power BI              ████████░░ 80%
-
---------------------------------------------------
-MISSION STATEMENT
---------------------------------------------------
-
-I don't just study Artificial Intelligence.
-
-I build systems that can:
-
-See.
-Predict.
-Detect.
-Assist.
-Improve decisions.
-
-Every repository here is an experiment
-toward that mission.
-
---------------------------------------------------
-END OF FILE
---------------------------------------------------
+[█████░░░░░] Generative AI
