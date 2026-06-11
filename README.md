@@ -1,4 +1,4 @@
-```markdown
+
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
